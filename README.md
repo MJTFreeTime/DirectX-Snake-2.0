@@ -1,5 +1,5 @@
 # DirectX-Snake-2.0
-Progress: Still In-Progress, with notable bugs to be fixed.
+Progress: Still in-progress, with notable bugs to be fixed, and a number of additions to be made, such as a point system, speed changes, collision detection, and general game logic.
 
 This game I call "Snake 2.0". Created with DirectX and the Open-Source ChiliFramework.
 
@@ -19,5 +19,7 @@ In-Game Screenshots:
 ![image](https://user-images.githubusercontent.com/65698531/114450966-893a7080-9b8b-11eb-9601-4c679ad4ebb5.png)
 
 ![image](https://user-images.githubusercontent.com/65698531/114450905-732cb000-9b8b-11eb-88a2-de18accf8af1.png)
+
+![image](https://user-images.githubusercontent.com/65698531/114451282-e9311700-9b8b-11eb-8894-316c504d85ad.png)
 
 ![image](https://user-images.githubusercontent.com/65698531/114451134-bf77f000-9b8b-11eb-9641-737967b20905.png)
