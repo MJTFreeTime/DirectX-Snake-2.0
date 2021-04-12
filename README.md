@@ -5,14 +5,9 @@ My code can be found in the Game.cpp and Game.h files. More specifically, in the
 
 Controls:
 
-• W or UpArrow: Move up
-
-• A or LeftArrow: Move left
-
-• • • S or DownArrow: Move down
-
-• • D or RightArrow: Move right
-
-• Shift: Show grid
-
-• Ctrl: RGB Changing Colors!
+W or UpArrow: Move up  
+A or LeftArrow: Move left  
+S or DownArrow: Move down  
+D or RightArrow: Move right  
+Shift: Show grid  
+Ctrl: RGB Changing Colors! 
