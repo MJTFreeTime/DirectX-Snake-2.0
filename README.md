@@ -4,14 +4,15 @@ This game I call "Snake 2.0". Created with DirectX and the "ChiliFramework."
 My code can be found in the Game.cpp and Game.h files. More specifically, in the Game.h file, my member functions and data members are everything below the "/* User Functions  */" comment. And, in the Game.cpp file, my code is inside Game::UpdateModel(), Game::ComposeFrame(), and all the member functions below them. The rest of the code is from the ChiliFramework, which mainly handles windows creation with winAPI, setting up graphics, sound, and keyboard/mouse input providing the developer with a functions to interact with.
 
 Controls:
-W or UpArrow: Move up
 
-A or LeftArrow: Move left
+• W or UpArrow: Move up
 
-S or DownArrow: Move down
+• A or LeftArrow: Move left
 
-D or RightArrow: Move right
+• • • S or DownArrow: Move down
 
-Shift: Show grid
+• • D or RightArrow: Move right
 
-Ctrl: RGB Changing Colors!
+• Shift: Show grid
+
+• Ctrl: RGB Changing Colors!
