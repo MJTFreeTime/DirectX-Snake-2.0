@@ -13,3 +13,11 @@ S or DownArrow: Move down
 D or RightArrow: Move right  
 Shift: Show grid  
 Ctrl: RGB Changing Colors! 
+
+In-Game Screenshots:
+
+![image](https://user-images.githubusercontent.com/65698531/114450966-893a7080-9b8b-11eb-9601-4c679ad4ebb5.png)
+
+![image](https://user-images.githubusercontent.com/65698531/114450905-732cb000-9b8b-11eb-88a2-de18accf8af1.png)
+
+![image](https://user-images.githubusercontent.com/65698531/114451134-bf77f000-9b8b-11eb-9641-737967b20905.png)
